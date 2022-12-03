@@ -11,7 +11,7 @@ Das Programm löst die erste Aufgabe von  <a href="https://adventofcode.com/2022
     
   <tr>
     <td>used software</td>
-    <td>Link</td>
+    <td><a href="https://www.bluej.org/"><img src="https://www.bluej.org/bluej-icon-256-2x.png" width="30px"></a></td>
   </tr> 
   
     <tr>
