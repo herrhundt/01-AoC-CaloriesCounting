@@ -5,20 +5,22 @@ Das Programm löst die erste Aufgabe von  <a href="https://adventofcode.com/2022
 
 <table border="1">
   <tr>
-    <th></th>
-    <th><th>
+    <td>used language</td>
+    <td>java<td>
   </tr>
+    
+  <tr>
+    <td>used software</td>
+    <td><a href="https://www.bluej.org/"><img src="https://www.bluej.org/bluej-icon-256-2x.png" width="30px"></a><td>
+  </tr> 
+  
     <tr>
-    <th></th>
-    <th><th>
+     <td>used date structures</td>
+     <td>array<td>
   </tr> 
     <tr>
-    <th></th>
-    <th><th>
-  </tr> 
-    <tr>
-    <th></th>
-    <th><th>
+      <td>difficulty</td>
+      <td☆td>
   </tr> 
 </table>  
 used language: Java <br>
