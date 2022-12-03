@@ -8,17 +8,14 @@ Das Programm löst die erste Aufgabe von  <a href="https://adventofcode.com/2022
     <td>used language</td>
     <td>java</td>
   </tr>
-    
   <tr>
     <td>used software</td>
     <td><a href="https://www.bluej.org/"><img src="https://www.bluej.org/bluej-icon-256-2x.png" width="30px"></a></td>
   </tr> 
-  
     <tr>
      <td>used data structures</td>
      <td>array</td>
    </tr> 
-  
     <tr>
       <td>difficulty</td>
       <td>☆</td>
