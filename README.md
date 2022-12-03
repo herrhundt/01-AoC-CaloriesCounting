@@ -6,4 +6,4 @@ Das Programm löst die erste Aufgabe von  <a href="https://adventofcode.com/2022
 Programmiersprache: Java <br>
 Verwendete Software: <a href="https://www.bluej.org/">BlueJ</a><br>
 Verwendete Datenstrukturen: Array <br>
-<img src="https://www.bluej.org/bluej-icon-256-2x.png" heigth=20%,widht=20%>
+<img src="https://www.bluej.org/bluej-icon-256-2x.png" height="20%", width="20%">
