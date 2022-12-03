@@ -4,5 +4,5 @@ Das Programm löst die erste Aufgabe von  <a href="https://adventofcode.com/2022
 <hr>
 
 Programmiersprache: Java <br>
-Verwendete Software: BlueJ<br>
+Verwendete Software: <a href="https://www.bluej.org/">BlueJ</a><br>
 Verwendete Datenstrukturen: Array <br>
