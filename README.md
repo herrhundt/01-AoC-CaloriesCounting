@@ -6,21 +6,21 @@ Das Programm löst die erste Aufgabe von  <a href="https://adventofcode.com/2022
 <table border="1">
   <tr>
     <td>used language</td>
-    <td>java<td>
+    <td>java</td>
   </tr>
     
   <tr>
     <td>used software</td>
-    <td><a href="https://www.bluej.org/"><img src="https://www.bluej.org/bluej-icon-256-2x.png" width="30px"></a><td>
+    <td><a href="https://www.bluej.org/"><img src="https://www.bluej.org/bluej-icon-256-2x.png" width="30px"></a></td>
   </tr> 
   
     <tr>
      <td>used date structures</td>
-     <td>array<td>
+     <td>array</td>
   </tr> 
     <tr>
       <td>difficulty</td>
-      <td☆td>
+      <td>☆</td>
   </tr> 
 </table>  
 used language: Java <br>
