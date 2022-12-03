@@ -26,7 +26,7 @@ public class CaloriesCounting
             {
                tempCal +=input[i]; 
             }
-            if (input[i]==0 || i ==input.length-1)
+            if (input[i]==0 || i ==input.length-1) //last elv has no next empty line 
             {
                calories[j++] = tempCal; 
                tempCal = 0; //reset calories count (new elve)
@@ -78,7 +78,7 @@ public class CaloriesCounting
         catch(NumberFormatException e) 
         {
            input[i] = 0; // empty strings will throw an NumberFormatException --> set value to zero! 
-           countElves++; 
+           countElves++; // empty strings indicate ending an elv 
         }
         
     }
